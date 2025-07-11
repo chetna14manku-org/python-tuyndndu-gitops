@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/chetna14manku_org/python-tuyndndu:2b85de70401073996fb20d05f830e1fe67bc450d@sha256:4bdd67268d2c3e367596aea23119d4efefad102af69a12965467cc02fdb54d40
+        - image: quay.io/chetna14manku_org/python-tuyndndu:790937df8714a5f6ba2a102057025482e9e2a579@sha256:b66aae495663f3687928707330460a92ef56be5e37cc033e78499c10f267b66b
           name: container-image
